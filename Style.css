@@ -1,0 +1,48 @@
+#Menu_S{
+    background-color: black;
+
+}
+
+#Menu_LE {
+    display: flex;
+    padding: 5px; 
+}
+
+#Btn_dropdown{
+    margin-right: 25px;
+    height: 75%;
+}
+
+#Menu_LD {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#Conteudo{
+    display: flex;
+    margin-left: 6%;
+}
+
+#Sub_news{
+    display: flex;
+    margin-left: 1%;
+}
+
+#Sub_news ul li{
+    
+   justify-content: space-between;
+}
+
+.card{
+    border: none;
+}
+.card img{
+    border-radius: 5%;
+}
+
+.card-body h5{
+    width: 100%;
+    margin: none;
+    padding: none;
+}
